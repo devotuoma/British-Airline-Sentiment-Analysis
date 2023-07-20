@@ -12,3 +12,4 @@ Understanding customer feelings, needs, and feedback is crucial for improving bu
 
 Objectives
 
+The main objectives of this project are:
