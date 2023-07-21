@@ -18,4 +18,4 @@ The main objectives of this project are:
 2. Perform data analysis on the cleaned data using techniques such as topic modeling, sentiment analysis, and wordclouds to uncover insights about the content of the reviews.
 3. Create a PowerPoint slide with visualizations and metrics to summarize the key findings of the analysis, along with clear and concise explanations.
 
-4. FINAL PRESENTATION
+FINAL PRESENTATION
