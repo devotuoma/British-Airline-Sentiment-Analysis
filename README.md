@@ -28,3 +28,6 @@ WORD CLOUD
 
 ![image](https://github.com/devotuoma/British-Airline-Sentiment-Analysis/assets/94548340/ae094ec0-6567-4f2f-91fa-14c1626e4db7)
 
+
+![Screenshot from 2023-07-21 14-22-07](https://github.com/devotuoma/British-Airline-Sentiment-Analysis/assets/94548340/508729f9-4bff-47d5-86fb-f0b96a105a32)
+
