@@ -25,3 +25,6 @@ FINAL PRESENTATION
 INSIGHTS
 
 WORD CLOUD
+
+![image](https://github.com/devotuoma/British-Airline-Sentiment-Analysis/assets/94548340/ae094ec0-6567-4f2f-91fa-14c1626e4db7)
+
