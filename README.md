@@ -22,4 +22,6 @@ FINAL PRESENTATION
 
 ![Screenshot from 2023-07-21 13-34-34](https://github.com/devotuoma/British-Airline-Sentiment-Analysis/assets/94548340/06c4dd12-b354-4880-a6dc-20a9203f0570)
 
+INSIGHTS
+
 
