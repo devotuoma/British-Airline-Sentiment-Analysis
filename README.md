@@ -38,5 +38,5 @@ Data
 
 The data for this project will be collected from Skytrax.com and will consist of customer reviews about the airline. The data will be in the form of text and will require cleaning and preparation before it can be analyzed.
 
-Resource
+Resources
 
