@@ -40,3 +40,5 @@ The data for this project will be collected from Skytrax.com and will consist of
 
 Resources
 
+The following resources will be used in this project:
+
