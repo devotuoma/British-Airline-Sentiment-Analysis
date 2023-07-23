@@ -42,3 +42,5 @@ Resources
 
 The following resources will be used in this project:
 
+1. Skytrax.com for customer review data
+
