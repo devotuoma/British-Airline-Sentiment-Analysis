@@ -47,4 +47,4 @@ The following resources will be used in this project:
 
 Methodology
 
-The following steps wil
+The following steps will
