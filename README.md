@@ -46,3 +46,5 @@ The following resources will be used in this project:
 2. Python and libraries such as BeautifulSoup and Pandas for data scraping and preparation
 
 Methodology
+
+T
