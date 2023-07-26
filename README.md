@@ -49,4 +49,4 @@ Methodology
 
 The following steps will be taken to complete this project:
 
-1. Data scrapping and preparati
+1. Data scrapping and preparatio
