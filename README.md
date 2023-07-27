@@ -49,4 +49,4 @@ Methodology
 
 The following steps will be taken to complete this project:
 
-1. Data scrapping and preparation: Scrape review data from Skytrax.com and 
+1. Data scrapping and preparation: Scrape review data from Skytrax.com and c
