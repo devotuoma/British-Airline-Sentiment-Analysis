@@ -49,4 +49,4 @@ Methodology
 
 The following steps will be taken to complete this project:
 
-1. Data scrapping and preparation: Scrape review data from Skytrax.com and clean and prepare the data for analysis using Python libraries such BeautifulSoup and Panda
+1. Data scrapping and preparation: Scrape review data from Skytrax.com and clean and prepare the data for analysis using Python libraries such BeautifulSoup and Pandas
