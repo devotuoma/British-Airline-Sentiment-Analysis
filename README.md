@@ -51,4 +51,4 @@ The following steps will be taken to complete this project:
 
 1. Data scrapping and preparation: Scrape review data from Skytrax.com and clean and prepare the data for analysis using Python libraries such BeautifulSoup and Pandas.
 
-2. Data analysis: Perform data analysis on the cleaned data u
+2. Data analysis: Perform data analysis on the cleaned data us
