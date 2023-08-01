@@ -53,4 +53,4 @@ The following steps will be taken to complete this project:
 
 2. Data analysis: Perform data analysis on the cleaned data using techniques such as topic modeling, sentiment analysis, and wordclouds to uncover insights about the content of the reviews.
 
-3. Results and recommendation: Create a PowerPoint pres
+3. Results and recommendation: Create a PowerPoint prese
