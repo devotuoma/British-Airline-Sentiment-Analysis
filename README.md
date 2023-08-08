@@ -49,7 +49,7 @@ Methodology
 
 The following steps will be taken to complete this project:
 
-1. D: Scrape review data from Skytrax.com and clean and prepare the data for analysis using Python libraries such BeautifulSoup and Pandas.
+1. Da: Scrape review data from Skytrax.com and clean and prepare the data for analysis using Python libraries such BeautifulSoup and Pandas.
 
 2. Data analysis: Perform data analysis on the cleaned data using techniques such as topic modeling, sentiment analysis, and wordclouds to uncover insights about the content of the review
 3. Results and Recommendation: Create a PowerPoint slide with visualizations and metrics to summarize the key findings of the analysis, along with clear and concise explanations.
